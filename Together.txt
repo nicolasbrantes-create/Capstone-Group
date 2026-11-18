@@ -1,1 +1,2 @@
 Using python to make data analysis if two systems match data and pass or if they do not match data and fail in the analysis. [Nicolas Brantes 1]
+Using python to make data analysis going deeper into why there is a specific data variance in Rooms, folio or blocks for a specific hotel. [Nicolas Brantes 2]
